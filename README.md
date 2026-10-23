@@ -1,7 +1,4 @@
 #  Projet Paiement - API Flask
-[NOM] : [DAFFE] 
-[PRENOM]: [MOUCTAR] 
-[CODE PERMANENT]: [DAFM01119900]
 
 Lien de la capsule vidéo : https://youtu.be/ks04bro5tDc?si=8TJjdGDWyw9mHQEy
 ##  Description
@@ -18,7 +15,7 @@ Il permet de :
 - Afficher et **vérifier le statut d’une commande** (payée ou non)
 - Interface HTML minimaliste avec design CSS
 ---
-## ⚙️ Technologies utilisées
+## Technologies utilisées
 
 - **Python 3.11**
 - **Flask**
@@ -38,7 +35,7 @@ pip install -r requirements.txt
 ###  **Installation des dépendances**
 Avant de commencer, assurez-vous d'avoir au minimum **Python 3.6+** installé sur votre machine.
 
-🔧 Étapes
+Étapes
 
 1. **Cloner le dépôt GitHub**
   bash
@@ -69,10 +66,7 @@ Payer la commande
 Vérifier le statut de la commande
 
 
-##  **📝 Auteurs**
-Mouctar Daffe — Étudiant en Informatique UQAC
-
-📧 mouctardaffe99@gmail.com
-🔗 https://www.linkedin.com/in/mouctar-daffe/
+## Auteur
+NodX — Projet universitaire
 
 python app.py
