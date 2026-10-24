@@ -39,7 +39,7 @@ Avant de commencer, assurez-vous d'avoir au minimum **Python 3.6+** installé su
 
 1. **Cloner le dépôt GitHub**
   bash
- git clone https://github.com/Mdaffe17/projet-paiement.git
+ git clone https://github.com/itsnodx/projet-paiement.git
  cd projet-paiement
 2. **Lancer les services avec Docker**
  docker compose up --build
