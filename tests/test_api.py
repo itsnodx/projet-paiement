@@ -1,7 +1,7 @@
 import sys
 import os
 
-sys.path.insert(0, "/Users/mouctardaffe/Desktop/projet_paiement")
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 import pytest
 from app import app  #  Flask App
@@ -61,7 +61,7 @@ def test_update_order(client):
             "country": "Canada",
             "address": "201, rue Président-Kennedy",
             "postal_code": "G7X 3Y7",
-            "city": "Chicoutimi",
+            "city": "Québec",
             "province": "QC"
         }
     }
